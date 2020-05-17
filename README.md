@@ -25,19 +25,23 @@ python2 -m SimpleHTTPServer
 - Minesweeper
 
 - Clock
-  ..-It makes a ding every minute if the bell is on
-  ..-Sound provided under the [CC 3.0 license](http://creativecommons.org/licenses/by/3.0/) by [aji\_ at freesoung.org](https://freesound.org/s/66136/). The original wav file was modified to mp3 using ffmpeg.
+
+  - It makes a ding every minute if the bell is on
+  - Sound provided under the [CC 3.0 license](http://creativecommons.org/licenses/by/3.0/) by [aji\_ at freesoung.org](https://freesound.org/s/66136/). The original wav file was modified to mp3 using ffmpeg.
 
 - Sierpinski
-  ..-The Sierpinski triangle made with random chance
+
+  - The Sierpinski triangle made with random chance
 
 - RainbowBackground
-  ..-The name says it all
+
+  - The name says it all
 
 - Bubble
-  ..-Bubbles of random size that move randomly
-  ..-Press Enter to create a bubble
-  ..-Hover the mouse over a bubble and press delete to delete it.
+
+  - Bubbles of random size that move randomly
+  - Press Enter to create a bubble
+  - Hover the mouse over a bubble and press delete to delete it.
 
 - RandomWalker
-  ..-One pixel traveling randomly across the screen
+  - One pixel traveling randomly across the screen
