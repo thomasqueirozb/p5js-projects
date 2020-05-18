@@ -19,8 +19,9 @@ python2 -m SimpleHTTPServer
 ## Projects
 
 - 2048
-  ..*Pretty much a clone of the 2048 game
-  ..*Control the board with arrow keys or wasd
+
+  - Pretty much a clone of the 2048 game
+  - Control the board with arrow keys or wasd
 
 - Minesweeper
 
